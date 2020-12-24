@@ -1,0 +1,23 @@
+Actions                                			Commands               
+search wikipedia                    			wikipedia _query_
+search google                       			google _query_
+Open youtube,stackoverflow         		 open _query_
+Ask query to Karl                   			i have a query
+play music                          			play music  mu
+Open vs code                        			open vs code
+Send email                         			 email
+Calculations                        			calculation
+Set reminder                        			reminder
+Tell Horoscope                     			 horoscope
+History of today                   			 history
+Tell jokes                         			 joke
+Tell Riddle                         			riddle
+Tells the current time            			  time
+Send SMS                           			 sms
+Toss a coin                         			coin
+Current weather                   			  weather
+Open Karl pad                      			 karlpad
+Open calculator                     			calculator
+Trending news                       			news 
+Set alarm                          			 alarm
+Search jobs                        			 jobs
