@@ -14,6 +14,7 @@
 </p>
 
 <h3 id = 'tasks'>Tasks</h3>
+
 ```
 Actions                                			Commands               
 search wikipedia                    			wikipedia _query_
@@ -38,6 +39,7 @@ Open calculator                     			calculator
 Trending news                       			news 
 Set alarm                          			  alarm
 Search jobs                        			  jobs
+
 ```
 
 
