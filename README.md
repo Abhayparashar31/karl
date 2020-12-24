@@ -43,9 +43,9 @@ Search jobs                        			  jobs
 
 
 <h3 id = 'screenshot'>Screenshots</h3>
-[Commands](https://github.com/Abhayparashar31/karl/blob/main/img/0.png?raw=true)
+![Commands](https://github.com/Abhayparashar31/karl/blob/main/img/0.png?raw=true)
 
-[Demo](https://github.com/Abhayparashar31/karl/blob/main/img/1.png?raw=true)
+![Demo](https://github.com/Abhayparashar31/karl/blob/main/img/1.png?raw=true)
 
 <h3 id = 'how'>How To Use</h3>
 
