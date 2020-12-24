@@ -1,6 +1,6 @@
-# karl : The Ultimate Desktop Assistant 
+# karl : The Ultimate Desktop Assistant 👓
 
-### Content
+### Content 📕
 1. [Build With](#build)
 2. [Tasks](#tasks)
 3. [Screentshot](#screenshot)
@@ -10,7 +10,6 @@
 <h3 id ='build'> Build With</h3> 
 <p>
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 </p>
 
 <h3 id = 'tasks'>Tasks</h3>
@@ -44,7 +43,9 @@ Search jobs                        			  jobs
 
 
 <h3 id = 'screenshot'>Screenshots</h3>
+[Commands](https://github.com/Abhayparashar31/karl/blob/main/img/0.png?raw=true)
 
+[Demo](https://github.com/Abhayparashar31/karl/blob/main/img/1.png?raw=true)
 
 <h3 id = 'how'>How To Use</h3>
 
